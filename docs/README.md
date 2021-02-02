@@ -14,3 +14,5 @@
 | mr01-s9-u1008 | FAN    | bad fan                      | SALVAGE |       | 1  |    |    |    |
 | mr01-s9-u1009 | DOA    | Salvaged hash and fans       | REBUILD |       | 1  |    | 1  |    |
 | mr01-s9-u1010 | ASIC   | chain 6 - 0, 7 - 63, 8 - 63  | SALVAGE | 126   | 1  |    |    |    |
+
+updated 2021.02.02 cat
